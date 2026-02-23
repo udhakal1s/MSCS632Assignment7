@@ -1,4 +1,4 @@
-// Umesh Dhakal
+//  Umesh Dhakal
 // MSCS632A7
 // Mean, Median and Mode
 #include <stdio.h>
