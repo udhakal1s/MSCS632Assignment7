@@ -1,5 +1,5 @@
 (* Umesh Dhakal *)
-(* Mean, Median and Mode in OCaml *)
+(* Mean, Median, and Mode in OCaml *)
 
 
 let split_by_comma (line_text : string) : string list =
